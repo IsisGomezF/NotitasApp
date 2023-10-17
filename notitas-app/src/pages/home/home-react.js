@@ -105,7 +105,7 @@ function Home() {
 
   /*
     //Codigo para el boton test nota nueva
-    const agregarNotaNueva = (event) => {
+  const agregarNotaNueva = (event) => {
     const titulo = "titulo";
     const contenido = "Dummy contenido";
 
